@@ -1,2 +1,2 @@
 # Iskolai projekt
-## Egy kávézó weboldalának felújítása
+## Egy kávézó weboldalának 
